@@ -846,7 +846,7 @@ devolver resultado
 
 ---
 
-## B1.4 Validación obligatoria
+## B1.4 Validación opcional
 
 Si las matrices no tienen las mismas dimensiones, lanza:
 
